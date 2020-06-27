@@ -1,0 +1,60 @@
+group 'com.bavagnoli.ffi_opencv'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 16
+
+        externalNativeBuild{
+            cmake {
+                arguments '-DBUILD_TESTING=OFF', '-DANDROID_TOOLCHAIN=clang', '-DANDROID_STL=c++_shared', '-DCMAKE_VERBOSE_MAKEFILE=ON'
+                cppFlags "-std=c++11 -fexceptions -frtti" //-stdlib=libstdc++"
+                version "3.10.2"
+            }
+        }
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+
+    externalNativeBuild{
+        cmake {
+            path "CMakeLists.txt"
+        }
+    }
+
+    packagingOptions{
+        doNotStrip "**/*.so"
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            debuggable true
+            jniDebuggable true
+            renderscriptDebuggable true
+        }
+    }
+}

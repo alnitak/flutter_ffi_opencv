@@ -1,0 +1,77 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/android",
+      "sdkFolder": "/opt/android-sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates",
+      "gradleModulePathName": ":ffi_opencv",
+      "moduleRootFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android",
+      "makeFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/android/.cxx",
+      "cxxFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx",
+      "ndkFolder": "/opt/android-sdk/ndk-bundle",
+      "ndkVersion": "21.2.6472646",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DBUILD_TESTING\u003dOFF",
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-DANDROID_STL\u003dc++_shared",
+      "-DCMAKE_VERBOSE_MAKEFILE\u003dON"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11 -fexceptions -frtti"
+    ],
+    "variantName": "profile",
+    "soFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/profile/lib",
+    "objFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/profile/obj",
+    "jsonFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile",
+    "gradleBuildOutputFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64",
+  "jsonFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64",
+  "objFolder": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/profile/obj/x86_64",
+  "buildCommandFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64/build_command.txt",
+  "buildOutputFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64/build_output.txt",
+  "modelOutputFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cxx/profile/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/android/.cxx/cmake/profile/x86_64/compile_commands.json"
+}

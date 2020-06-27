@@ -1,0 +1,10 @@
+# ninja log v5
+0	627	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	24021394264f453f
+627	1519	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	afb2bc21ad72a7ad
+1	665	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	24021394264f453f
+665	721	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	afb2bc21ad72a7ad
+0	60	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	afb2bc21ad72a7ad
+1	77	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	afb2bc21ad72a7ad
+0	11	0	build.ninja	cc23de0456e38a7e
+1	689	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	24021394264f453f
+689	768	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	afb2bc21ad72a7ad

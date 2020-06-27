@@ -1,0 +1,14 @@
+# ninja log v5
+0	779	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	fdd17ae1e4346970
+779	1392	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
+0	909	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	fdd17ae1e4346970
+909	952	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
+0	789	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	fdd17ae1e4346970
+789	830	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
+0	774	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	fdd17ae1e4346970
+774	821	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
+0	44	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
+1	80	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
+0	27	0	build.ninja	18ed1b02eba68d8
+1	857	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	fdd17ae1e4346970
+857	920	0	/home/deimos/Documents/workspace/FLUTTER/libs/ffi_opencv/example/build/ffi_opencv/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	e917e6de93e55019
